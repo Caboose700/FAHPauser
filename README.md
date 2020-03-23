@@ -1,4 +1,4 @@
-#Folding@Home Pauser
+# Folding@Home Pauser
 
 > A simple Python script that will automatically pause and unpause Folding@Home if a specified application is running.
 
